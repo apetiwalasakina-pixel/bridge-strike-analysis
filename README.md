@@ -11,7 +11,7 @@ Of 8,020 bridge strikes, only 104 (1.30%) were serious — a small but high-stak
 Headline findings
 
 Bridge type is the dominant risk factor. Overline bridges (road over rail) are ~14× more likely to produce a serious strike than underline bridges, even after controlling for every other variable (OR = 14.08, 95% CI 8.35–23.77, p < .001). Raw rates back this up: 10.45% of overline strikes were serious vs 0.66% of underline strikes.
-Three regions stay significant after controlling for bridge type — Southern (OR = 3.22), Wales & Western (OR = 3.10) and Scotland's Railway (OR = 3.09) are each ~3× more likely than Eastern to produce a serious assessment, pointing to causes beyond bridge mix alone.
+Three regions stay significant after controlling for bridge type — Wales & Western (OR = 3.22), Southern (OR = 3.09) and North West & Central (OR = 2.70) are each ~2.7–3.2× more likely than Eastern to produce a serious assessment, pointing to causes beyond bridge mix alone. Notably, Scotland's Railway had the highest raw serious rate (2.50%) but is not significant once bridge type is controlled for (OR = 2.14, p = .059) — its raw elevation is largely explained by bridge mix.
 Seriousness is declining. The odds of a serious strike fell ~14% per year across 2017–2024 (OR = 0.864, p = .003) — evidence that existing safety measures are working.
 What doesn't matter independently: vehicle type, month and delay minutes all lose significance once bridge type and region are accounted for. Cars looked risky in isolation (4.66% serious rate) but that effect disappears in the full model — a clear example of confounding.
 
@@ -35,7 +35,7 @@ The full model wins on every fit statistic (lowest AIC, highest pseudo-R²). Not
 Recommendations to Network Rail
 
 Prioritise protection for overline bridges — height barriers, signage and monitoring — since they carry by far the greatest serious-strike risk.
-Investigate the high-risk regions (Southern, Wales & Western, Scotland's Railway) for explanations not captured by bridge type — older stock, traffic volumes, or fewer protective measures.
+Investigate the high-risk regions (Wales & Western, Southern, North West & Central) for explanations not captured by bridge type — older stock, traffic volumes, or fewer protective measures.
 Maintain current safety interventions, which the declining year-on-year trend suggests are effective.
 
 
