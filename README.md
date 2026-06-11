@@ -3,7 +3,7 @@ Predicting which railway bridge strikes are "serious" using binomial logistic re
 A consultancy-style analysis for Network Rail, identifying the characteristics that make a bridge strike serious or potentially serious. Built on 8,020 real incident records (2017–2024), the project moves from descriptive profiling to a multivariable logistic regression model and translates the statistics into clear operational recommendations.
 
 The business question
-
+Where should Network Rail target intervention spend?
 Network Rail looks after the infrastructure of most of Great Britain's railways and records every bridge strike — whenever a bridge is struck by a vehicle or its load. They wanted to understand what distinguishes a strike assessed as "Serious" or "Potentially serious" from the rest, and a brief summary of the results.
 
 Of 8,020 bridge strikes, only 104 (1.30%) were serious — a small but high-stakes minority. The goal was to find the factors that drive that 1.30%.
